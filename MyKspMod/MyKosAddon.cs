@@ -6,9 +6,9 @@ using kOS.Safe.Encapsulation.Suffixes;
 
 namespace MyKspMod
 {
-	public class MyKspAddon : kOS.Suffixed.Addon
+	public class MyKosAddon : kOS.Suffixed.Addon
 	{
-		public MyKspAddon(SharedObjects shared) : base ("MY", shared)
+		public MyKosAddon(SharedObjects shared) : base ("MY", shared)
 		{
 			Initialize();
 		}

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKspMod", "MyKspMod\MyKspMod.csproj", "{8284D0AD-99A0-41AB-8853-AC521C546860}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartlessPlugin", "MyKspMod\PartlessPlugin.csproj", "{8284D0AD-99A0-41AB-8853-AC521C546860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
