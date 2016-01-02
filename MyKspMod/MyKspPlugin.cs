@@ -29,7 +29,7 @@ namespace MyKspMod
 
 	*/
 
-	[KSPAddon(KSPAddon.Startup.EveryScene, false)]
+	[KSPAddon(KSPAddon.Startup.Instantly, true)]
 	public class MyKspPlugin : MonoBehaviour
 	{
 		/*
